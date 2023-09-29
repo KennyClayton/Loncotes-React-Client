@@ -7,7 +7,7 @@ function App() {
     <>
       <Navbar color="info" expand="md">
         <Nav navbar>
-          <NavbarBrand href="/">📖 Loncotes County Library</NavbarBrand>
+          <NavbarBrand href="/">📖 Lawn Coats County Library</NavbarBrand>
           <NavItem>
             <NavLink href="/materials">Materials</NavLink>
           </NavItem>
@@ -19,3 +19,4 @@ function App() {
 }
 
 export default App;
+ 

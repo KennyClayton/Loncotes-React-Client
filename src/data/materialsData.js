@@ -1,3 +1,5 @@
+//* This is where the back end connects to the front end. We reference the route parameter matching our endpoint in Program.cs
+
 const _apiUrl = "/api/materials";
 
 export const getMaterials = () => {

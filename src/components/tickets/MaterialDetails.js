@@ -3,6 +3,8 @@ import { useParams } from "react-router-dom";
 import { Table } from "reactstrap";
 import { getMaterial } from "../../data/materialsData";
 
+//^Retrieve material details from the server with the getMaterials function, which we have imported
+
 export default function MaterialDetails() {
   const { id } = useParams();
 

@@ -12,7 +12,7 @@ export default function MaterialList() {
 
   return (
     <div className="container">
-      <div className="sub-menu bg-light">
+      <div className="sub-menu bg-light"z>
         <h4>Materials</h4>
         <Link to="/materials/create">Add</Link>
       </div>
